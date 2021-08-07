@@ -10,13 +10,13 @@
 
 ZENO is an OpenSource, Node based 3D system able to produce cinematic physics effects at High Efficiency, it was designed for large scale simulations and has been tested on complex setups. Aside of its simulation Tools, ZENO provides necessary visualization nodes for users to import and run simulations if you feel that the current software you are using is too slow.
 
-![crag_hit_water](crag_hit_water.gif)
+![hello_zeno](img/hello_zeno.png)
 
 ### How to start on Ubuntu 20.04?
 
 > If you want to simulate with GPU, make sure your CUDA Toolkit is above 11.3
 
-#### Install CUDA Toolkit 11.14
+#### Install CUDA Toolkit 11.4
 
 > If you have a previous version, please remove it before you start.
 
@@ -195,7 +195,7 @@ source ~/.bashrc
 
 > Open ```zeno/arts/OfficialSubnets/zelloWorld.zsg``` and run it you will see **THIS IS ZENO**
 
-![hello_zeno](hello_zeno.png)
+![hello_zeno](img/hello_zeno.png)
 
 
 
